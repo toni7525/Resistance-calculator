@@ -5,6 +5,6 @@
 
 # calcul:
 +  R + number notates a resitrtestance sett earlyer
-+  + resistances in series
-+  / resistances in paralel
++ '+' resistances in series
++ '/' resistances in paralel
 +  can use () to make a bigger calculus
