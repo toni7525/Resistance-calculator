@@ -175,5 +175,7 @@ int main()
     cout<<"\n"<<input<<"\n";
     reversePolish();
     calcTotalRez();
+    bool stop;
+    cin>>stop;
     return 0;
 }
