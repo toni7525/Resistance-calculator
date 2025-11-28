@@ -1,0 +1,23 @@
+﻿  main.cpp
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(101,22): warning C4018: '<': signed/unsigned mismatch
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(43,11): warning C4101: 'temp': unreferenced local variable
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(46,10): warning C4189: 'lastin': local variable is initialized but not referenced
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(127,26): warning C4018: '<': signed/unsigned mismatch
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(142,26): warning C4456: declaration of 'i' hides previous local declaration
+      E:\imgui-docking\examples\example_win32_opengl3\main.cpp(127,18):
+      see declaration of 'i'
+  
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(142,34): warning C4018: '<': signed/unsigned mismatch
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(167,14): warning C4018: '<': signed/unsigned mismatch
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(439,27): warning C4456: declaration of 'style' hides previous local declaration
+      E:\imgui-docking\examples\example_win32_opengl3\main.cpp(300,17):
+      see declaration of 'style'
+  
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(452,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(476,49): warning C4018: '<': signed/unsigned mismatch
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(460,23): warning C4189: 'scroll_max_y': local variable is initialized but not referenced
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(444,21): warning C4101: 'y': unreferenced local variable
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(447,28): warning C4189: 'child_is_visible': local variable is initialized but not referenced
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(459,23): warning C4189: 'scroll_y': local variable is initialized but not referenced
+E:\imgui-docking\examples\example_win32_opengl3\main.cpp(76,1): warning C4701: potentially uninitialized local variable 'opord' used
+  example_win32_opengl3.vcxproj -> E:\imgui-docking\examples\example_win32_opengl3\Debug\example_win32_opengl3.exe
